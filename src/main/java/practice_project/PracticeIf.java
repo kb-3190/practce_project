@@ -6,7 +6,7 @@ public class PracticeIf {
 		// TODO 自動生成されたメソッド・スタブ
 		for (int i = 1; i <= 100; i++) {
 			if (i % 3 == 0 && i % 5 == 0) {
-				System.out.println("FizBuzz");
+				System.out.println("FizzBuzz");
 			} else if (i % 3 == 0) {
 				System.out.println("Fizz");
 			} else if (i % 5 == 0) {
