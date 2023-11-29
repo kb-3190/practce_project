@@ -3,7 +3,6 @@ package practice_project;
 public class PracticeSwitch {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 		int[] nums = { 1, 3, 4, 2, 3, 5, 2, 1, 5, 4 };
 
 		for (int i = 0; i < nums.length; i++) {
